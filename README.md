@@ -6,3 +6,5 @@ sh Utility.sh {sourceRopsitoryPathWithToken} {sourceRepositoryName} {destination
 
 # Sample Repo After Execution
 https://bitbucket.org/aakashahuja26/task1/src/main/
+
+# Refer Task1Utility.docx file for the documentation steps
